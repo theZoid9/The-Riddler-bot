@@ -31,4 +31,4 @@ async def give_answer(ctx):
     else:
         await ctx.send("I haven't told a riddle in this channel yet!")
 
-bot.run('MTEzNTg4NzU1NDQ2MjM1MTQwMQ.GLMrR0.AGW-J3PbEKw_0v99E-qIsh3GuPtZJ6d5OKtX68')
+bot.run('discord token')
