@@ -12,10 +12,10 @@ This Discord bot provides users with riddles and allows them to guess the answer
 
 ## Requirements
 
--Python 3.x
-- discord.py library('pip install discord.py)
+- Python 3.x
+- Discord.py library('pip install discord.py)
 
 
-1. ```
+1.  ```
     git clone https://github.com/yourusername/discord-riddle-bot.git
     ```
