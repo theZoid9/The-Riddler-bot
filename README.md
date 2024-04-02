@@ -1,2 +1,5 @@
-# The-Riddler-bot
-Discord bot that promts riddles using the Discord API
+# Discord Riddle Bot
+
+This Discord bot provides users with riddles and allows them to guess the answers.
+
+## features
